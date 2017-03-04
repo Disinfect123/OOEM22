@@ -1,0 +1,185 @@
+#body {
+	
+	color: #ffffff;
+}
+ 
+.navbar-toggle, .icon-bar { 
+    border:1px solid black;
+    background-color: #293c59;
+}
+
+
+#my-navbar {
+	color: #ffffff;
+	padding: 0px;
+	
+}
+
+
+#social{
+	color: #ffffff;
+}
+
+
+#navHeaderCollapse h4 {
+	color:#ffffff;
+	font-size: 30px;
+	font-weight: normal;
+}
+
+#navHeaderCollapse h4:hover{  
+	
+	padding: 0px;
+	color: orange;
+	 font-size: 50px;
+}
+
+#navHeaderCollapse {
+ 	
+    background: #293c59; /* Set header background color */
+    font-family: 'Amatic SC', cursive;
+    padding:10px;
+
+}
+
+
+
+
+
+
+
+#carouselcaption h1 { /* Carousel ko */
+	color: #f6bd0e;
+}
+
+#carouselcaption p {
+	font-size: 14px;
+	color: #7797ff;
+}
+
+
+
+
+
+
+
+#events h1 { /* EVENTS */
+	color: #293c59;
+	 font-family: 'Amatic SC', cursive;
+	 font-size: 60px;
+	 font-weight: bold;
+}
+
+#events h2 {
+	color: #293c59;
+	 font-family: 'Amatic SC', cursive;
+	 font-size: 50px;
+	 font-weight: bold;
+}
+
+#events p {
+	color: #293c59;
+	
+}
+
+
+#btn {
+	font-family: 'Amatic SC', cursive;
+	background-color: #446dd6;
+	font-weight: bold;
+	color: #ffffff;
+	font-size: 23px;
+}
+
+
+
+
+
+/* yung nasa PINAKA BABA */
+#footer { 
+	background-color: #293c59 ;
+}
+
+#footer h4 {
+	color: #ffffff ;
+	font-family: 'Amatic SC', cursive;
+	font-size: 30px;
+
+}
+
+
+#footer h3{
+	font-family: 'Amatic SC', cursive;
+	padding: 3px;
+	color: #ffffff;
+    font-weight: normal
+    margin: 0px;
+}
+
+
+#footer h4:hover{ 
+	padding: 0px;
+	color: #f6bd0e;
+	font-size: 40px;
+    font-weight: normal
+    margin: 0px;
+}
+/* END */
+
+#Adspace {
+color: orange;
+background-image-right
+
+}
+
+#adspace {
+	background-color: yellow;
+	color:yellow;
+}
+
+#m-contacts h1{	 /*///CONTACTS///*/
+	color: #293c59;
+	text-align: center;
+	font-family: 'Amatic SC', cursive;
+	font-size: 60px;
+	font-weight: bold;
+}
+
+
+#forms {
+	color: #293c59;
+	font-family: 'Amatic SC', cursive;
+	font-size: 40px;
+	font-weight: normal;
+}
+
+#email {
+	color: #00030a;
+	font-weight: bold;
+}
+
+#name {
+	color: #00030a;
+	font-weight: bold;
+}
+
+#navHeaderCollapse:focus h4	{
+	background-color: #293c59;
+}
+
+
+
+
+
+
+
+/* Registration Form */
+#m-reserve h1{
+	font-size:40px;
+	font-weight: bold;
+}
+#m-reserve {
+	font-family: 'Amatic SC', cursive;
+	font-size: 30px;
+
+}
